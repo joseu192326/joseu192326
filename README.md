@@ -11,7 +11,7 @@
 <body>
     <div>
         <header id="container">
-            <img class="img" src="./img/guantes.jpeg" alt="Logo">
+            
             <br><br>
             <div class="texto" 
                 h1>Examen Lenguajes de Marcas</h1>
